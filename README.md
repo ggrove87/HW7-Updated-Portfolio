@@ -6,9 +6,9 @@ Contact: Gene Grove - gwg1387@gmail.com
 
 Associated Links
 
-GIT Pages Link: https://ggrove87.github.io/HW6-Weather-Dashboard/
+GIT Pages Link: https://ggrove87.github.io/HW7-Updated-Portfolio/
 
-GIT Repository Link: https://github.com/ggrove87/HW6-Weather-Dashboard
+GIT Repository Link: https://github.com/ggrove87/HW7-Updated-Portfolio
 
 <br>
 
@@ -36,4 +36,4 @@ The following image shows the web application's appearance and functionality:
 
 <br>
 
-![Image of the webpage being deployed](./assets/images/HW6_Screen_Shot.png)
+![Image of the webpage being deployed](./assets/images/HW7_ScreenShot.png)
